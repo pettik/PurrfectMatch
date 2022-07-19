@@ -6,3 +6,4 @@ One of the first small excersices of the <a href="https://www.udemy.com/course/t
 
 Site looks like this -->
 
+<img src="https://github.com/pettik/PurrfectMatch/blob/main/site_preview.png" alt="PurrfectMatch site">
