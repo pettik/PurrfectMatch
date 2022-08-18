@@ -2,7 +2,7 @@
 Some small excersice from UDEMY courses - Colt Steel
 
 
-One of the first small excersices of the <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> Udemy course. Here is working with  free and open-source CSS framework: "Bootstrap".
+One of the first small excersices of the <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> Udemy course. This was made with open-source CSS framework: "Bootstrap".
 
 Site looks like this -->
 
